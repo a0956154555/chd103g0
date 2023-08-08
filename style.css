@@ -1,5 +1,7 @@
 body {
-  font-size: 20px;
+  font-size: 1000px;
   margin: 0;
   padding: 0;
+  color: transparent;
+  background-color: transparent;
 }
